@@ -24,7 +24,7 @@ st.write(
 )
 
 section = st.radio(
-    "Choose a lesson",
+    "Choose a model",
     ["Linear regression", "Perceptron"],
     horizontal=True,
 )
